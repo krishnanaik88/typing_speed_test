@@ -98,6 +98,23 @@ Typing Speed Test Menu:
 Enter your choice (1/2/3/4):
 ```
 
+## Future Scope
+1. **Enhanced User Profiles**:
+   - Add features like profile pictures and detailed statistics.
+2. **Leaderboard System**:
+   - Display top users based on their typing speed and accuracy.
+3. **Multiplayer Mode**:
+   - Allow users to compete in real-time typing tests.
+4. **Mobile Application**:
+   - Develop a mobile version of the application for Android and iOS.
+5. **Custom Text Input**:
+   - Allow users to provide their own text for practice.
+6. **Gamification**:
+   - Introduce badges, rewards, and levels to make the typing test more engaging.
+
+
+
+
 
 
 
